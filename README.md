@@ -1,6 +1,6 @@
 # Starklings Exercises
 
-This repository contains my solutions to the Starklings exercises, which can be found at [starklings.app](https://starklings.appg).
+This repository contains my solutions to the Starklings exercises, which can be found at [starklings.app](https://starklings.app).
 
 ## About Starklings
 
