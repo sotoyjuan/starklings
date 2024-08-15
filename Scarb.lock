@@ -2,5 +2,5 @@
 version = 1
 
 [[package]]
-name = "cairo_starlings_test"
+name = "cairo_starlings"
 version = "0.1.0"

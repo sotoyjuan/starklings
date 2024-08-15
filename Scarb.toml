@@ -1,5 +1,5 @@
 [package]
-name = "cairo_starlings_test"
+name = "cairo_starlings"
 version = "0.1.0"
 edition = "2024_07"
 
