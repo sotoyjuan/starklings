@@ -1,6 +1,6 @@
 # Starklings Exercises
 
-This repository contains my solutions to the Starklings exercises, which can be found at [starklings.app](https://starklings.app/exercise).
+This repository contains my solutions to the Starklings exercises, which can be found at [starklings.app](https://starklings.appg).
 
 ## About Starklings
 
@@ -12,7 +12,7 @@ I'm currently working through the exercises to improve my Cairo development skil
 
 ## Resources
 
-- [Starklings Exercises](https://starklings.app/exercise)
+- [Starklings Exercises](https://starklings.app)
 - [Starknet Documentation](https://docs.starknet.io/)
 
 Feel free to explore the code and follow along with my learning journey!
